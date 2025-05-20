@@ -15,7 +15,7 @@ This project is a simple yet functional **dialogue system** designed for Unity. 
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/yourusername/Unity-Dialogue-System.git
+   git clone https://github.com/emredarici/DialogueSystem.git
 
 Open your Unity project and add the files to the Assets/Scripts folder.
 
